@@ -1,0 +1,30 @@
+.flex-container{
+border: 2px solid powderblue;
+padding: 10px;
+min-height: 150px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+}
+.flex-item{
+    border: 1px solid cornflowerblue;
+    margin: 5px;
+    padding: 15px;
+    text-align: center;
+    font-weight: bold;
+    width: 500px;
+    height: 200px;
+}
+#child-1{
+background-color: darkslategrey;
+
+}
+.child-2{
+    background-color: lightblue;
+}
+.child-3{
+    background-color: darkcyan;
+}
+.child-4{
+    background-color: burlywood;
+}
